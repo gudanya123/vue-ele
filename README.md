@@ -12,7 +12,7 @@
 ### 移动端演示
 扫二维码在手机上查看效果更好
 
-<img src="https://static.oschina.net/uploads/space/2017/0207/180535_4FSI_2493500.png" width="25%">
+<img src="https://gudanya123.github.io/vue-ele/example.png" width="25%">
 
 
 ## 组件
